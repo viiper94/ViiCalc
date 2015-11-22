@@ -1,2 +1,2 @@
-# viicalc
-own calculator for android
+# ViiCalc
+My own calculator for android.
