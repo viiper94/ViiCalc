@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViiCalculator</string>
+    <string name="action_simple">Simple Mode</string>
+    <string name="action_advanced">Advanced</string>
+    <string name="action_numerical">Numerical</string>
+    <string name="action_degrees">Use Degrees</string>
+    <string name="action_radians">Use Radians</string>
+    <string name="title_activity_numerical">Numerical Systems</string>
+    <string name="title_activity_advanced">Advanced Mode</string>
+    <string name="title_activity_simple">Simple Mode</string>
+</resources>

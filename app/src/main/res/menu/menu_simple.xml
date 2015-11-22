@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Simple">
+    <item android:id="@+id/action_advanced"
+        android:title="@string/action_advanced"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_numerical"
+        android:title="@string/action_numerical"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom" />
+</menu>
